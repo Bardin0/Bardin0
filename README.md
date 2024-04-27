@@ -1,4 +1,17 @@
-### Hi there 👋
+## Greetings! I'm Michael.
+
+I am a second-year university student studying computer science at the [University of Guelph](https://www.uoguelph.ca/).
+
+Currently learning: C and Python
+
+Current Project: Scriptor text editor
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/michael-giovannini-10a59a211/)    
+&nbsp;
+
+
+
+
 
 <!--
 **Bardin0/Bardin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
