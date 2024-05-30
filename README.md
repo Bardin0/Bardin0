@@ -4,7 +4,7 @@ I am a second-year university student studying computer science at the [Universi
 
 Currently learning: C and Python
 
-Current Project: Scriptor text editor
+Current Project: Portfolio Website
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/michael-giovannini-10a59a211/)    
 &nbsp;
