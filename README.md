@@ -2,7 +2,7 @@
 
 I am a second-year university student studying computer science at the [University of Guelph](https://www.uoguelph.ca/).
 
-Currently learning: C and Python
+Currently learning: C and Java
 
 
 <!--
