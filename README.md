@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate developer studying computer science at the University of Guelph. I love to explore new technologies and solve challenging problems. I have experience in various programming languages and frameworks and enjoy working on both front-end and back-end development.
+I'm a 2nd year Software Engineer studying Computer Science at the University of Guelph. I love to explore new technologies and solve challenging problems. I have experience in various programming languages and frameworks and enjoy both front-end and back-end development.
 
 - 🔭 I’m currently working on a 2D-Game built in Java
 - 🌱 I’m currently learning spring/springboot
