@@ -1,6 +1,4 @@
-# Hi there, I'm Bardin0 👋
-
-Welcome to my GitHub profile!
+# Hi there, I'm Michael
 
 ## About Me
 
